@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/durouas2/catkin_ws1/src/gui_pkg/devel/setup.sh

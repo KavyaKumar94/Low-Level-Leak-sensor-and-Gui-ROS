@@ -1,0 +1,4 @@
+<launch>
+<node name="Leak_status_talker" pkg="gui_pkg" type="gui.py" output="screen" />
+<node name="Leak_status_listener" pkg="gui_pkg" type="listener.py" output="screen" />
+</launch>

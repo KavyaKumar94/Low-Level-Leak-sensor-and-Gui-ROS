@@ -1,0 +1,2 @@
+gui_pkg
+-DCATKIN_DEVEL_PREFIX=/home/kavya/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kavya/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/kavya/catkin_ws/devel
+
+Name: gui_pkg
+Description: Description of gui_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kavya/catkin_ws/devel/lib -lgui_pkg
+Requires: rospy
